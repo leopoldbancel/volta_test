@@ -1,0 +1,12 @@
+__pycache__
+.python-version
+.mypy_cache/
+*.egg-info
+Pipfile.lock
+.coverage
+Pipfile
+./dist/*
+pip-wheel-metadata/
+.vscode
+build/
+
